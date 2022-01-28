@@ -1,0 +1,17 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "plateNumber": "123",
+            "firstRegistrationDate": null,
+            "used": true,
+            "mileage": 125,
+            "mileageUnit": null,
+            "fuelType": null,
+            "vin": null,
+            "make": null,
+            "model": null,
+            "owner": null
+        }
+    ]
+}
